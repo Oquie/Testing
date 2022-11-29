@@ -15,3 +15,5 @@ deploy in the dev env
 deployment5 master
 deployment4 dev
 deploy to staging 
+echo good job
+tested and accepted
