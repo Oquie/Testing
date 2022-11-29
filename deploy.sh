@@ -1,4 +1,5 @@
 
+
 #!/bin/bash
 #echo "deployment in progress"
 #mkdir deploy
@@ -13,3 +14,4 @@ deploy python applications
 deploy in the dev env
 deployment5 master
 deployment4 dev
+deploy to staging 
